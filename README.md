@@ -11,6 +11,10 @@ CODE:safe-01 is a web application prototype designed for rapid reporting and bro
 -   **Status Management**: Mark alerts as 'Resolved' when a child is found.
 -   **Mobile-Friendly**: Responsive design optimized for high-pressure mobile usage.
 -   **Emergency UI**: High-contrast red and yellow theme for immediate identification.
+     
+##   How to Run
+-   npm install
+-   npm start
 
 ## 🛠️ Prerequisites
 
